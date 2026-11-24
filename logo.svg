@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 220" width="660" height="220" role="img" aria-label="Detangled Eats, by Jillian Software LLC">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 220" width="660" height="220" role="img" aria-label="Detangled Eats">
   <rect width="660" height="220" fill="#F6F4EF"/>
   <!-- fork -->
   <g fill="none" stroke="#4A5553" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
@@ -32,5 +32,4 @@
   </g>
   <!-- wordmark -->
   <text x="250" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="600" fill="#1C2321">Detangled Eats</text>
-  <text x="253" y="158" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" letter-spacing="1" fill="#4A5553">by Jillian Software LLC</text>
 </svg>
