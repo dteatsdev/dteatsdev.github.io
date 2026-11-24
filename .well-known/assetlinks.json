@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.detangledeats.patient",
+      "sha256_cert_fingerprints": ["75:55:31:05:20:04:6F:9D:AC:B6:B1:04:82:5A:6B:D4:22:F8:58:84:13:40:C3:8F:24:7B:A5:2A:92:B2:A0:66"]
+    }
+  }
+]
